@@ -23,10 +23,10 @@ Location: Makmal Inovasi (322-02)<br />
 6. Screw everything in place if needed.
 7. Close the CPU cover and screw it on tightly.
 
-## Reflection
+# Reflection
 In this lab session, I was educated on the different functions and uses of CPU hardware components and was taught the process of assembling them. My understanding of computer architecture was further deepen in this lab session under the guidance of a lecturer and lab assistant. Moreover, I was given the opportunity to collaborate with my course mates by working in groups during the session. This collaboration undoubtedly fostered a sense of teamwork and improved my communication skills. Overall, this lab session is extremely useful and inspiring, undoubtedly would prove valuable for me in the future with my broader understanding of hardware components and my hands-on skills.  
 
-## Self Improvement
+# Self Improvement
 
  - I should **participate more actively** in our group lab work when it
    comes to hand-ons. Avoid passive learning.
