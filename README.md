@@ -1,4 +1,4 @@
-# Lab: PC Assemble
+# :electric_plug: Lab: PC Assemble 
 
 Name: Lee Lai Queen (A23CS0100)<br />
 Date: 01.11.2023 (Wednesday) <br />
