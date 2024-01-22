@@ -1,9 +1,9 @@
 # Lab: PC Assemble
 
-*Name: Lee Lai Queen (A23CS0100) 
-Date: **01.11.2023** (Wednesday) 
-Time: 2.50 p.m. to 4.00 p.m. 
-Location: Makmal Inovasi (322-02)*
+*Name: Lee Lai Queen (A23CS0100)* 
+*Date: **01.11.2023** (Wednesday) *
+*Time: 2.50 p.m. to 4.00 p.m. *
+*Location: Makmal Inovasi (322-02)*
 
 # Activity Summary 
 
